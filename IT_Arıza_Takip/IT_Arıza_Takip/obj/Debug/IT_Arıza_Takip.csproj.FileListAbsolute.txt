@@ -1,0 +1,12 @@
+C:\Users\dijit\source\repos\IT_Arıza_Takip\IT_Arıza_Takip\obj\Debug\IT_Arıza_Takip.csproj.AssemblyReference.cache
+C:\Users\dijit\source\repos\IT_Arıza_Takip\IT_Arıza_Takip\obj\Debug\IT_Arıza_Takip.Form1.resources
+C:\Users\dijit\source\repos\IT_Arıza_Takip\IT_Arıza_Takip\obj\Debug\IT_Arıza_Takip.Properties.Resources.resources
+C:\Users\dijit\source\repos\IT_Arıza_Takip\IT_Arıza_Takip\obj\Debug\IT_Arıza_Takip.csproj.GenerateResource.cache
+C:\Users\dijit\source\repos\IT_Arıza_Takip\IT_Arıza_Takip\obj\Debug\IT_Arıza_Takip.csproj.CoreCompileInputs.cache
+C:\Users\dijit\source\repos\IT_Arıza_Takip\IT_Arıza_Takip\bin\Debug\IT_Arıza_Takip.exe.config
+C:\Users\dijit\source\repos\IT_Arıza_Takip\IT_Arıza_Takip\bin\Debug\IT_Arıza_Takip.exe
+C:\Users\dijit\source\repos\IT_Arıza_Takip\IT_Arıza_Takip\bin\Debug\IT_Arıza_Takip.pdb
+C:\Users\dijit\source\repos\IT_Arıza_Takip\IT_Arıza_Takip\obj\Debug\IT_Arıza_Takip.exe
+C:\Users\dijit\source\repos\IT_Arıza_Takip\IT_Arıza_Takip\obj\Debug\IT_Arıza_Takip.pdb
+C:\Users\dijit\source\repos\IT_Arıza_Takip\IT_Arıza_Takip\obj\Debug\IT_Arıza_Takip.exe.config
+C:\Users\dijit\source\repos\IT_Arıza_Takip\IT_Arıza_Takip\obj\Debug\IT_Arıza_Takip.Form2.resources

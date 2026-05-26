@@ -1,0 +1,14 @@
+Sayın Hocam,
+
+IT Arıza Takip Projesi'nin veritabanı kurulumu için garanti olması açısından dosyaları iki farklı yöntemle ekledim. Dilediğiniz yöntemi kullanabilirsiniz.
+
+YÖNTEM 1 (SQL Script):
+Klasör içerisindeki "script.sql" dosyası, hem tablo yapısını hem de test verilerini içerecek şekilde oluşturulmuştur. Bu dosyayı SQL Server'da çalıştırarak veritabanını ve verileri otomatik yükleyebilirsiniz.
+
+YÖNTEM 2 (MDF Dosyası):
+SQL script çalıştırmak yerine dosyayı doğrudan eklemek isterseniz, proje klasöründeki "IT_Arıza_Takip.mdf" ve ".ldf" dosyalarını SQL Server'a Attach edebilirsiniz.
+
+ÖNEMLİ NOT:
+Proje içerisindeki veritabanı bağlantı cümlesi (Connection String), sizin bilgisayarınızda sorunsuz çalışması için evrensel format olan "Data Source=." şeklinde ayarlanmıştır.
+
+Saygılarımla
